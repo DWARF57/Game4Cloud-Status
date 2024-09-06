@@ -12,11 +12,15 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /game4cloud-status
-  logoUrl: https://game4.cloud/templates/lagom2/assets/img/favicons/favicon.ico
+  logoUrl: https://game4.cloud/templates/lagom2/assets/img/logo/logo_big.176418523.svg
+  favicon: https://game4.cloud/templates/lagom2/assets/img/favicons/favicon-16.png
   name: Game4Cloud - Server Status
-  introTitle: ""
-  introMessage:
+  theme: dark
+  introTitle: "Game4Cloud Server Status"
+  introMessage: hello, nice to see you
   navbar:
+    - title: Game4Cloud
+      href: https://game4.cloud/
 
 
 # Upptime also supports notifications, assigning issues, and more
