@@ -1,5 +1,23 @@
 [
   {
+    "name": "Game4Cloud Homepage",
+    "url": "https://game4.cloud/",
+    "icon": "https://icons.duckduckgo.com/ip3/game4.cloud.ico",
+    "slug": "game4-cloud-homepage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 485,
+    "timeDay": 485,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Game4Cloud Gamepanel",
     "url": "https://panel.game4.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.game4.cloud.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 537,
-    "timeWeek": 537,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "time": 544,
+    "timeDay": 544,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   }
 ]
