@@ -5,6 +5,7 @@ repo: Game4Cloud-Status # The name of this repository
 sites:
   - name: Game4Cloud Homepage
     url: https://game4.cloud/
+    icon: https://game4.cloud/templates/lagom2/assets/img/favicons/favicon-16.png
   - name: Game4Cloud Gamepanel
     url: https://panel.game4.cloud/
 
@@ -14,10 +15,10 @@ status-website:
   baseUrl: /Game4Cloud-Status
   logoUrl: https://game4.cloud/templates/lagom2/assets/img/logo/logo_big.176418523.svg
   favicon: https://game4.cloud/templates/lagom2/assets/img/favicons/favicon-16.png
-  name: Game4Cloud - Server Status
+  name: Game4Cloud
   theme: dark
   introTitle: "Game4Cloud Server Status"
-  introMessage: hello, nice to see you
+  introMessage:
   navbar:
     - title: Game4Cloud
       href: https://game4.cloud/
