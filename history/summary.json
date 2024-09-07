@@ -4,35 +4,39 @@
     "url": "https://game4.cloud/",
     "icon": "https://game4.cloud/templates/lagom2/assets/img/favicons/favicon-16.png",
     "slug": "game4-cloud-homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 545,
-    "timeWeek": 545,
-    "timeMonth": 545,
-    "timeYear": 545,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   },
   {
     "name": "Game4Cloud Gamepanel",
     "url": "https://panel.game4.cloud/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.game4.cloud.ico",
     "slug": "game4-cloud-gamepanel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 543,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
-    "dailyMinutesDown": {}
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   }
 ]
