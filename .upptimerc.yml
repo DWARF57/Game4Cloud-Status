@@ -16,9 +16,8 @@ status-website:
   logoUrl: https://game4.cloud/templates/lagom2/assets/img/logo/logo_big.176418523.svg
   favicon: https://game4.cloud/templates/lagom2/assets/img/favicons/favicon-16.png
   name: Game4Cloud
-  themeUrl: https://dwarf57.github.io/game4cloud-theme.css
+  themeUrl: https://dwarf57.github.io/Game4Cloud-Status/game4cloud-theme.css
   introTitle: "Game4Cloud Server Status"
-  introMessage:
   navbar:
     - title: Game4Cloud
       href: https://game4.cloud/
